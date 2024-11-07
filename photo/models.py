@@ -8,5 +8,3 @@ class Photo(models.Model):
   description = models.TextField()
   price = models.IntegerField()
   
-class Heejin(models.Model):
-  pass
